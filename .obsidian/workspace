@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "9af464e6ae9f3133",
+    "type": "split",
+    "children": [
+      {
+        "id": "f39d8ca06f3a5a8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/2022-04-14.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9251099436a44bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "224d758eedb37af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8364a9a49968381a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6902e5e3ec2846f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "95%",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426
+  },
+  "right": {
+    "id": "d3d009e865183922",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5aaa17dfe31216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ca693fcfc20ffb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/2022-04-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40c5c43b47a8fb4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Notes/2022-04-14.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57f10a93e1b88652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92921a915abfac1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Politik/Zusammenfassung Grünes LTW-Programm NRW 2022.md"
+              }
+            },
+            "group": "baafa2110cd8f598"
+          }
+        ]
+      },
+      {
+        "id": "542f30feff001876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c3eab59726c500c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Politik/Zusammenfassung Grünes LTW-Programm NRW 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "baafa2110cd8f598"
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f39d8ca06f3a5a8e",
+  "lastOpenFiles": [
+    "Daily Notes/2022-04-14.md",
+    "Daily Notes/2022-04-22.md",
+    "Politik/Autofreie Innenstädte.md",
+    "Politik/Das Toleranz-Paradoxon von Karl Popper.md",
+    "Politik/Energiewende.md",
+    "Politik/Vermögensverteilung.md",
+    "Politik/Tempolimit.md",
+    "Politik/IPCC Bericht aus April 2022.md",
+    "Politik/IPCC.md",
+    "Politik/Finanzierung von klammen Kommunen durch Altschuldenfonds.md"
+  ]
+}
